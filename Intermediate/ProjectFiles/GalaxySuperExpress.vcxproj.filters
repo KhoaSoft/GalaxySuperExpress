@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GalaxySuperExpress.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GalaxySuperExpress.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GalaxySuperExpressEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GalaxySuperExpress">
+      <UniqueIdentifier>{D86D7800-BE57-3A3B-9442-6A74EB49D0DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GalaxySuperExpress\GalaxySuperExpress.Build.cs">
+      <Filter>Source\GalaxySuperExpress</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GalaxySuperExpress\GalaxySuperExpress.cpp">
+      <Filter>Source\GalaxySuperExpress</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalaxySuperExpress\GalaxySuperExpress.h">
+      <Filter>Source\GalaxySuperExpress</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalaxySuperExpress\GalaxySuperExpressGameModeBase.cpp">
+      <Filter>Source\GalaxySuperExpress</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalaxySuperExpress\GalaxySuperExpressGameModeBase.h">
+      <Filter>Source\GalaxySuperExpress</Filter>
+    </ClInclude>
+    <Filter Include="Source\GalaxySuperExpress\Private">
+      <UniqueIdentifier>{9C9195F0-FDA8-3EFD-8FF9-9B581937AA6F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GalaxySuperExpress\Private\Yu.cpp">
+      <Filter>Source\GalaxySuperExpress\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\GalaxySuperExpress\Public">
+      <UniqueIdentifier>{DAC9CAAF-09AB-337D-A773-4D5B6D392F4B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GalaxySuperExpress\Public\Yu.h">
+      <Filter>Source\GalaxySuperExpress\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

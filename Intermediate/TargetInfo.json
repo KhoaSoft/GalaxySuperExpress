@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GalaxySuperExpress",
+			"Path": "C:\\Users\\luong\\Documents\\Unreal Projects\\GalaxySuperExpress\\Source\\GalaxySuperExpress.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GalaxySuperExpressEditor",
+			"Path": "C:\\Users\\luong\\Documents\\Unreal Projects\\GalaxySuperExpress\\Source\\GalaxySuperExpressEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
